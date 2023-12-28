@@ -1,0 +1,7 @@
+What is schema in php?
+-----------------------------
+Schema is the structure of a database system, described in a formal 
+language supported by the DBMS (Database management system). 
+In a relational database, the schema defines the tables, 
+the fields in each table, and the relationships between fields and tables. 
+Schemas are generally stored in a data dictionary.
